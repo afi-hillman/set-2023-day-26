@@ -6,6 +6,7 @@ import Button from "../components/ui/Button";
 const Home = () => {
   // can write normal javascript here
   console.log(JOB_DATA);
+
   // end here
   return (
     <div className="bg-[#F7FAFC] min-h-screen">

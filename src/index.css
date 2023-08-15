@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply w-screen min-h-screen font-mono;
+  @apply min-h-screen font-mono;
 }
 
 h1 {

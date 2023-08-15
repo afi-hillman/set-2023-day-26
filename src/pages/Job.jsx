@@ -10,8 +10,8 @@ const Job = () => {
   const params = useParams();
   const jobId = parseInt(params?.id);
   const selectedJob = JOB_DATA.find((element) => element.id === jobId);
-  const position = "full time";
-  const hours = "unspecified";
+  const position = "Full time";
+  const hours = "Unspecified";
   return (
     <div className="bg-[#F7FAFC] min-h-screen">
       <Header />
