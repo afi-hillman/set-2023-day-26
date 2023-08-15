@@ -1,4 +1,4 @@
-import Card from "../components/card";
+import Card from "../components/Card";
 import JOB_DATA from "../assets/job-directory-data.json";
 import Header from "../components/Header";
 import Button from "../components/ui/Button";
